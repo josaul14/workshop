@@ -35,7 +35,7 @@ Begin your workshop with an introduction to the concept of preprints, along with
 
 Give an introduction to what preprints are. It can be useful to add a discussion element to your workshop to gauge participants' understanding of preprints. You might consider briefly explaining why current academic publishing workflows can often be slow and expensive.
 
-## Benefits of preprinting
+## Benefits of preprints
 
 Introduce some of the benefits of preprinting. These could include:
 
